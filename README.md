@@ -1,5 +1,5 @@
 <h1>AI NFT Generator<h1/></h1><br>
-Technology Stack & Tools
+<h4>Technology Stack & Tools</h4>
 Solidity (Writing Smart Contracts & Tests)
 Javascript (React & Testing)<br>
   <a href="https://hardhat.org/">Hardhat</a>(Development Framework)<br>
