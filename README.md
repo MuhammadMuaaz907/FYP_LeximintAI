@@ -2,7 +2,7 @@
 Technology Stack & Tools
 Solidity (Writing Smart Contracts & Tests)
 Javascript (React & Testing)
-  <a href="https://hardhat.org/">Hardhat (Development Framework)</a>
+  <a href="https://hardhat.org/">Hardhat</a>(Development Framework)<br>
 Hardhat (Development Framework)
 Ethers.js (Blockchain Interaction)
 React.js (Frontend Framework)
