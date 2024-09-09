@@ -1,4 +1,4 @@
-AI NFT Generator
+AI NFT Generator<br>
 Technology Stack & Tools
 Solidity (Writing Smart Contracts & Tests)
 Javascript (React & Testing)
