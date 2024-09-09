@@ -6,7 +6,7 @@ Solidity (Writing Smart Contracts & Tests)
  Ethers.js (Blockchain Interaction)<br>
  React.js (Frontend Framework)<br>
  NFT.Storage (Connection to IPFS)<br>
-   <a href="https://hardhat.org/">Hugging Face</a>(Development Framework)<br>(AI Models) <br>
+   <a href="https://huggingface.co/">Hugging Face</a>(Development Framework)<br>(AI Models) <br>
  Requirements For Initial Setup<br>
  Install NodeJS<br>
  Setting Up<br>
